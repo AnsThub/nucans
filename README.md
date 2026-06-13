@@ -26,6 +26,9 @@
 - 🧠 Arsitektur modular dan mudah dikembangkan
 - 🛠️ Cocok untuk developer, pentester, dan automation engineer
 
+  AUTHOR : AnsXploit
+  TEAMS  : KILLER SECTEAMS
+
 > “Build fast. Scan smarter. Automate everything.”
 
 ---
